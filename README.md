@@ -90,6 +90,18 @@ The script generates:
 
 ---
 
+## Results Visualization
+
+### Demo Video
+Watch the complete sensitivity analysis walkthrough and results interpretation:
+
+[![Plantarflexor Sensitivity Analysis Demo](https://img.youtube.com/vi/VG5gZraxpmE/maxresdefault.jpg)](https://youtu.be/VG5gZraxpmE)
+
+*Video includes: Running the analysis, interpreting fiber power plots, and discussing key findings*
+
+### Quick Preview
+![Analysis Output](docs/results_preview.gif)
+
 ## Results
 
 ### Key Findings
