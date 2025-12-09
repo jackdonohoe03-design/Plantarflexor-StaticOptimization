@@ -143,30 +143,6 @@ From Rajagopal et al. (2016):
 - Lts: 39.9 ± 1.1 cm  
 - Pennation: 9.5 ± 4.3°
 
-### Customization
-
-To modify the analysis:
-
-**Change target muscles:**
-```matlab
-% Line ~35
-targetMuscles = {'gasmed_r', 'gasmed_l', 'soleus_r', 'soleus_l'};
-% Add other muscles like 'gaslat_r', 'tibant_r', etc.
-```
-
-**Adjust time resolution:**
-```matlab
-% Line ~289
-timeInterval = 5;  % Use every 5th time point
-% Set to 1 for all time points (slower but higher resolution)
-```
-
-**Modify parameter variations:**
-```matlab
-% Lines ~38-67
-% Edit the rajagopalParams structure to test different SD values
-% Or change the condition definitions to test custom parameter sets
-```
 
 ---
 
