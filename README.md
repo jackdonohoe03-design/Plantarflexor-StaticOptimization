@@ -214,6 +214,14 @@ Where `f_p` is the passive force multiplier.
 
 6. **Uchida, T. K., et al.** (2016). Simulating ideal assistive devices to reduce the metabolic cost of running. *PLOS ONE*, 11(9), e0163417.
 
+7. **Krishnaswamy, P., et al.** (2011). Human leg model predicts ankle muscle-tendon morphology, state, roles and energetics in walking. *PLOS Comput Biol*, 7(3), e1001107.
+
+8. **Farris, D. J., & Sawicki, G. S.** (2012). Human medial gastrocnemius force-velocity behavior shifts with locomotion speed and gait. *Proc Natl Acad Sci USA*, 109(3), 977-982.
+
+9. **Lichtwark, G. A., & Wilson, A. M.** (2006). Interactions between the human gastrocnemius muscle and the Achilles tendon during incline, level and decline locomotion. *J Exp Biol*, 209(21), 4379-4388.
+
+10. **Fukunaga, T., et al.** (2001). In vivo behaviour of human muscle tendon during walking. *Proc R Soc Lond B*, 268(1464), 229-233.
+
 ---
 
 ## Author
