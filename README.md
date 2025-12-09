@@ -93,7 +93,7 @@ The script generates:
 ## Results Visualization
 
 ### Demo Video
-Watch the complete sensitivity analysis walkthrough and results interpretation:
+Watch the complete analysis walkthrough and results interpretation:
 
 [![Plantarflexor Sensitivity Analysis Demo](https://img.youtube.com/vi/VG5gZraxpmE/maxresdefault.jpg)](https://youtu.be/VG5gZraxpmE)
 
